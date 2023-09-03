@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+body{
+    font-family: 'Philosopher', sans-serif;
+}
+
+button{
+    cursor: pointer;
+    background-color: transparent;
+}
+
+a{
+    text-decoration: none;
+}
